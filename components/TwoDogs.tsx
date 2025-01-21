@@ -25,8 +25,8 @@ export default function TwoDogs() {
         <div className="flex flex-col-reverse md:flex-row gap-8 md:gap-10">
           <div className="flex items-center w-full md:w-1/2">
             <BaseText
-              title="Improve overall gastrointestinal health for better nutrient absorption"
-              description="Through rigorous scientific studies and consultations with veterinarians, we have created a breakthrough formula exclusively tailored to combat the health challenges prevalent in dogs. A staggering 91% of our customers have reported significant improvements in their dogs' health after incorporating our product into their diet."
+              title="Prebiotics nourish the beneficial gut bacteria, supporting digestive health"
+              description="Our dog food formula contains carefully selected prebiotics that work in harmony with the gut microbiota, providing the necessary nutrients for the growth and maintenance of beneficial bacteria, ultimately supporting digestive health."
             />
           </div>
 
