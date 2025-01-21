@@ -2,6 +2,7 @@ import React from "react";
 import Container from "./Container";
 import Image from "next/image";
 import twoDogs from "../public/assets/twoDogs.svg";
+import nuts from "../public/assets/nuts.svg";
 import BaseText from "./BaseText";
 
 export default function TwoDogs() {
@@ -30,7 +31,7 @@ export default function TwoDogs() {
           </div>
 
           <div className="w-full md:w-1/2">
-            <Image src={twoDogs} alt="Two dogs" className="w-full h-auto" />
+            <Image src={nuts} alt="Two dogs" className="w-full h-auto" />
           </div>
         </div>
       </Container>

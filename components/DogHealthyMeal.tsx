@@ -76,7 +76,7 @@ export default function DogHealthyMeal(): JSX.Element {
               </div>
             </div>
           </div>
-          <button className="bg-[#EE6F4B] text-white rounded-[6px] px-6 md:px-[70px] py-3 text-sm w-full md:w-auto">
+          <button className="bg-[#EE6F4B] text-white rounded-[6px] px-6 md:px-[90px] py-3 text-sm w-full md:w-auto">
             Get your dog&apos;s healthy meal today
           </button>
           <div className="flex flex-col md:flex-row items-center gap-5 w-full justify-center">
